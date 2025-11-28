@@ -4,9 +4,6 @@
 
 This repository contains the foundational structure for a desktop application built using **C#** and the **Windows Forms (WinForms)** framework within the **.NET** environment. This setup provides the necessary scaffolding to create a native Graphical User Interface (GUI) application designed to run on Windows operating systems.
 
-> **Note:** The solution file name (`WindowsFormsApplication1.sln`) is the default Visual Studio identifier. Please rename your repository and update this description to reflect the actual purpose and functionality of your application once development begins.
-
-***
 
 ## ⚙️ Technology Stack
 
